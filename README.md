@@ -37,7 +37,7 @@ A beginner-friendly, interactive website that explains how stock market charts w
 Just open `stock-charts-guide.html` in any browser. No installation needed.
 
 ```bash
-git clone https://github.com/yourusername/stock-charts-101.git
+git clone https://github.com/harshaldhonge2007-sudo/stock-charts-101.git
 cd stock-charts-101
 open stock-charts-guide.html
 ```

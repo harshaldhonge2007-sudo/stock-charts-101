@@ -3,7 +3,7 @@
 A beginner-friendly, interactive website that explains how stock market charts work. Built as a college project using only **HTML, CSS, and JavaScript** — no frameworks, no backend.
 
 ## 🌐 Live Demo
-> _Add your GitHub Pages link here after deploying_
+> _(https://github.com/harshaldhonge2007-sudo/stock-charts-101)_
 
 ## 📚 What's Covered
 
